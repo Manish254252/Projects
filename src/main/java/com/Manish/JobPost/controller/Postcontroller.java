@@ -4,7 +4,7 @@ import com.Manish.JobPost.model.post;
 import com.Manish.JobPost.repository.postrepo;
 import com.Manish.JobPost.repository.searchrepo;
 
-import java.io.IOException;//Using Java
+import java.io.IOException;
 import java.util.List;
 
 import javax.servlet.http.HttpServletResponse;
